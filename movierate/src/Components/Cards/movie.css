@@ -1,0 +1,23 @@
+.movie-poster{
+    height:500px;
+    width: 340px;
+    object-fit:cover;
+}
+.movie-specs{
+    display: flex;
+    justify-content: space-between;
+}
+.movie-Name{
+font-size: 24px;
+margin-bottom: 0px;
+}
+.movie-summary{
+    margin-top: 0px;
+}
+.movie-Name,.movie-rating{
+margin-top: 8px;
+}
+.movie-container{
+    width:340px;
+    
+  }
